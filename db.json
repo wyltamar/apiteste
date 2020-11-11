@@ -1,0 +1,22 @@
+{
+  "user":[
+    {
+      "id": 1,
+      "nome": "Pedro Lucas",
+      "email": "pelu@gmail.com",
+      "telefone": "083999645517"
+    },
+    {
+      "id": 2,
+      "nome": "Pietra Oliveira",
+      "email": "pietra43@gmail.com",
+      "telefone": "083999644421"
+    },
+    {
+      "id": 3,
+      "nome": "João Francisco",
+      "email": "jfranc@gmail.com",
+      "telefone": "083999646790"
+    }
+  ]
+}
